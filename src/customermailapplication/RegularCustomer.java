@@ -18,4 +18,5 @@ public class RegularCustomer extends Customer {
         return "Regular Customer";
     }
     
+    
 }
